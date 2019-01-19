@@ -1,0 +1,29 @@
+
+div{  
+font-family: arial;
+    color: brown;
+    
+    font-size: 10px;
+    
+        
+
+}
+
+.profil{
+     
+    padding : 10px;
+
+  
+    justify-content: center;
+    
+    display: inline-flex;
+    
+}
+
+
+.img_1
+{
+width: 100px;
+    height:100px;
+    
+}
